@@ -1,3 +1,5 @@
 # workshop-git
 
-Actualizo info
+Esto es un ejemplo de documentación.
+
+Más info
